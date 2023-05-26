@@ -1,3 +1,5 @@
+// find factorial of the number using recursive function
+
 #include<iostream>
 using namespace std;
 int Fact( int ); // Function declaration
